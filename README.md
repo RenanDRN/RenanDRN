@@ -31,6 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-yellow?style=flat&logo=amazon-aws&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-Analytics-blue?style=flat&logo=alteryx&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-blue?style=flat&logo=salesforce&logoColor=white)
 
 <br>
 
