@@ -29,6 +29,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/AWS-Amazon%20Web%20Services-yellow?style=flat&logo=amazon-aws&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-Analytics-blue?style=flat&logo=alteryx&logoColor=white)
 
 <br>
 
