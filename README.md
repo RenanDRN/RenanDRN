@@ -35,7 +35,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/CaiqueTodd">
+  <a href="https://github.com/RenanDRN">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=RenanDRN&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanDRN&exclude_repo=github-readme-stats,Pong,Freeway-JS&langs_count=5&theme=radical"/>
 </div><br>
