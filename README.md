@@ -1,5 +1,5 @@
 
-<p><h1 align="left">Hi, I'm Renan dos Reis Negrão <p align="left"> <img src="https://komarev.com/ghpvc/?username=RenanDRN&color=yellow" alt="Profile views" /> </p></h1>
+<p><h1 align="left">Olá, eu sou Renan dos Reis Negrão <p align="left"> <img src="https://komarev.com/ghpvc/?username=RenanDRN&color=yellow" alt="Profile views" /> </p></h1>
 
 
 - 🎓 Cursando 5° Semestre de Ciência da Computação na Universidade São Judas Tadeu
