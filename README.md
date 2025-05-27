@@ -5,6 +5,7 @@
 - 🎓 Cursando 7° Semestre de Ciência da Computação na Universidade São Judas Tadeu.
 - 🎯 Atuando como Engenheiro de TI no Itaú.
 - 🧩 Entusiasta sobre o mundo de dados nos tempos vagos.
+- 📚 1x AWS Certified (Cloud Practitioner)
   
 
 ## 🛠 &nbsp;Tech Stack
