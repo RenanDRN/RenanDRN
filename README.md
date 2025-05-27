@@ -2,9 +2,9 @@
 <p><h1 align="left">Olá, eu sou Renan dos Reis Negrão <p align="left"> <img src="https://komarev.com/ghpvc/?username=RenanDRN&color=yellow" alt="Profile views" /> </p></h1>
 
 
-- 🎓 Cursando 5° Semestre de Ciência da Computação na Universidade São Judas Tadeu.
-- 🎯 Atuando com Dados: Análise de dados, ETL, visualização de dados e engenharia de dados.
-- 🧩 Entusiasta de programação nos tempos vagos.
+- 🎓 Cursando 7° Semestre de Ciência da Computação na Universidade São Judas Tadeu.
+- 🎯 Atuando como Engenheiro de TI no Itaú.
+- 🧩 Entusiasta sobre o mundo de dados nos tempos vagos.
   
 
 ## 🛠 &nbsp;Tech Stack
